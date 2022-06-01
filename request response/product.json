@@ -1,0 +1,12 @@
+[
+   {"id": "1", "name": "Memory", "price": "120", "quantity": "19"},
+   {"id": "2", "name": "Hard Drive or Solid State Drive", "price": "160", "quantity": "32"},
+   {"id": "3", "name": "Video card", "price": "1600", "quantity": "4"},
+   {"id": "4", "name": "Motherboard", "price": "750", "quantity": "7"},
+   {"id": "5", "name": "Processor", "price": "680", "quantity": "12"},
+   {"id": "6", "name": "Power Supply", "price": "220", "quantity": "15"},
+   {"id": "7", "name": "Monitor", "price": "500", "quantity": "18"},
+   {"id": "8", "name": "Keyboard and Mouse", "price": "80", "quantity": "45"},
+   {"id": "9", "name": "Optical Drive DVD/RW", "price": "35", "quantity": "8"},
+   {"id": "10", "name": "Ethernet or Wireless card", "price": "40", "quantity": "9"}
+]
